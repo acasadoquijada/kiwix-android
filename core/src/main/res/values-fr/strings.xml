@@ -275,5 +275,5 @@
   <string name="send_report">Envoyer le rapport de diagnostic</string>
   <string name="crash_checkbox_file_system">Détails du système de fichiers</string>
   <string name="diagnostic_report">Rapport de diagnostic</string>
-  <string name="diagnostic_report_message">Veuillez envoyer tous les détails suivant afin que nous puissions diagnostiquer le problème</string>
+  <string name="diagnostic_report_message">Veuillez envoyer tous les détails suivants afin que nous puissions diagnostiquer le problème</string>
 </resources>
